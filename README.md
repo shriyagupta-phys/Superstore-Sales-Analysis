@@ -55,3 +55,6 @@ Data preparation was performed using Power Query in Power BI.
 
 ## 9. Project Status
 Completed – Version 1.0
+## Dashboard Preview
+
+![Superstore Sales Dashboard](Superstore_Dashboard.png)
